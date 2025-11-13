@@ -1,2 +1,2 @@
 Second file
-Changes made in remote repository
+These changes are made in remote repository
