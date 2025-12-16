@@ -1,4 +1,3 @@
 First file
 Second line
 Third line
-These changes are made in remote repository
